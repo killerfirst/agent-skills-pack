@@ -3,18 +3,19 @@
   "version": "0.1.0",
   "description": "Agent 技能一键启动包 — 为小白挑选、安装、配置好 AI 编码 Agent Skills，零上手成本",
   "bin": {
-    "agent-skills-pack": "./bin/cli.js",
-    "aspack": "./bin/cli.js"
+    "agent-skills-pack": "bin/cli.js",
+    "aspack": "bin/cli.js"
   },
   "type": "module",
   "files": [
     "bin/",
     "packs/",
-    "README.md"
+    "README.md",
+    "README.zh.md"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/wei/agent-skills-pack"
+    "url": "git+https://github.com/killerfirst/agent-skills-pack.git"
   },
   "keywords": [
     "agent",
