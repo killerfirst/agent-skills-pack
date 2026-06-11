@@ -1,0 +1,22 @@
+{
+  "name": "python-ai",
+  "label": "🧠 Python/AI 开发包",
+  "description": "数据科学、ML、AI 应用开发专用。注重代码严谨性和可复现性。",
+  "skills": [
+    "spec-driven-development",
+    "source-driven-development",
+    "test-driven-development",
+    "debugging-and-error-recovery",
+    "code-review-and-quality",
+    "documentation-and-adrs",
+    "performance-optimization"
+  ],
+  "quickstart": [
+    "/spec   → 定义你要做什么",
+    "/plan   → 拆实验/训练/部署步骤",
+    "test-driven-development → 每个函数先写测试",
+    "/review → 审查结果",
+    "debugging-and-error-recovery → 训练失败时自动激活"
+  ],
+  "tip": "AI 项目最容易踩的坑是「看着对了但跑不起来」——TDD + Debugging skill 是救命组合"
+}

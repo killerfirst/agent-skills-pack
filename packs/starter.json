@@ -1,0 +1,21 @@
+{
+  "name": "starter",
+  "label": "🚀 新手入门包",
+  "description": "如果你刚开始用 AI 编码 Agent，选这个。涵盖从写需求到提交代码的完整流程。",
+  "skills": [
+    "spec-driven-development",
+    "planning-and-task-breakdown",
+    "incremental-implementation",
+    "test-driven-development",
+    "code-review-and-quality",
+    "git-workflow-and-versioning"
+  ],
+  "quickstart": [
+    "/spec   → 写需求文档",
+    "/plan   → 拆任务",
+    "/build  → 增量实现",
+    "/test   → 写测试",
+    "/review → 代码审查"
+  ],
+  "tip": "按 /spec → /plan → /build → /test → /review 的顺序走一遍，这就是标准工程流程"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "web-dev",
+  "label": "🌐 网页开发包",
+  "description": "前端 + API + 性能优化，适合做 Web 应用的全栈开发者。",
+  "skills": [
+    "frontend-ui-engineering",
+    "api-and-interface-design",
+    "performance-optimization",
+    "browser-testing-with-devtools",
+    "test-driven-development",
+    "code-review-and-quality",
+    "shipping-and-launch"
+  ],
+  "quickstart": [
+    "/spec        → 先写设计文档",
+    "/build       → 自动生成 + 实现",
+    "frontend-ui-engineering skill 自动激活处理 UI",
+    "api-and-interface-design skill 自动激活处理 API"
+  ],
+  "tip": "前端和 API 设计 skill 会自动激活，你专心写逻辑就行"
+}

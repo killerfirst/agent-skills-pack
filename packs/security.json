@@ -1,0 +1,18 @@
+{
+  "name": "security",
+  "label": "🔒 安全工程包",
+  "description": "代码安全审计、加固、依赖管理。适合做安全敏感项目或上生产前检查。",
+  "skills": [
+    "security-and-hardening",
+    "code-review-and-quality",
+    "deprecation-and-migration",
+    "test-driven-development",
+    "observability-and-instrumentation"
+  ],
+  "quickstart": [
+    "security-and-hardening skill 自动激活检查安全问题",
+    "/review → 安全审查",
+    "test-driven-development → 安全测试先行"
+  ],
+  "tip": "每条代码提交前都会自动过安全审查。如遇 CVE 依赖，deprecation skill 会建议迁移路径。"
+}
